@@ -13,6 +13,6 @@ export class Authcontroller{
 @Post('signin')
 
 signin(){
-    return 'richie im in'
+    return 'signed in'
 }
 }
